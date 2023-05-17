@@ -16,7 +16,7 @@ Tabarek Mohammed
 <br>
 <br>
 
-Hi, I'm Tabarek Mohammed, full-stack developer from Iraq.
+Hi, I'm Tabarek Mohammed, software developer from Iraq.
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tabarakMohammed&show_icons=true&theme=gotham" alt="tabarakMohammed" width="400" height="320" />
 
