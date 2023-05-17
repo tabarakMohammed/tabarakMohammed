@@ -3,12 +3,6 @@
 ```
 Tabarek Mohammed 
 ```
-<a href="https://www.instagram.com/flowapp/">
-  <img align="left" alt="tabarek" width="22px" src="https://github.com/tabarakMohammed/tabarakMohammed/blob/main/assets/instagram.png" />
-</a>
-<a href="https://discord.gg/Tabarak#6510">
-  <img align="left" alt="Tabarek | Discord" width="22px" src="https://github.com/tabarakMohammed/tabarakMohammed/blob/main/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/tabarek01x">
   <img align="left" alt="Tabarek | Twitter" width="22px" src="https://github.com/tabarakMohammed/tabarakMohammed/blob/main/assets/twitter.svg" />
 </a>
