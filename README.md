@@ -18,7 +18,6 @@ Tabarek Mohammed
 
 Hi, I'm Tabarek Mohammed, software developer from Iraq.
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=tabarakMohammed&show_icons=true&theme=gotham" alt="tabarakMohammed" width="400" height="320" />
 
 
 - 💬 ask me about anything, I am happy to help;
@@ -58,7 +57,6 @@ Hi, I'm Tabarek Mohammed, software developer from Iraq.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabarakMohammed&" alt="tabarakMohammed"  width="500" />
 
 
 
